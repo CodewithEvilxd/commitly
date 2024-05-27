@@ -90,7 +90,7 @@ export default function RootLayout({
                     />
                   </div>
                   <Link
-                    href={"https://github.com/ruru-m07/commitly"}
+                    href={"https://github.com/codewithEvilxd/commitly"}
                     aria-label="Github"
                     target="_blank"
                     className={cn(
